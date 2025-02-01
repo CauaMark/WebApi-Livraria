@@ -1,0 +1,6 @@
+@WebApi_Livraria_HostAddress = http://localhost:5124
+
+GET {{WebApi_Livraria_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
